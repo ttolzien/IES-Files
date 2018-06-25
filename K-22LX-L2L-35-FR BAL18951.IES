@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS TEST NO.  18951.0
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 08-JUL-2015
+[MANUFAC] ENERGY SOLUTIONS INTERNATIONAL, INC - WEST ST.PAUL, MN
+[LUMINAIRE] 40LED 19.5"ARRAY 2x2'RETROFIT KIT IN LITHONIA 2SP8 HOUSING
+[MORE] WHITE REFLECTOR w/WHITE FROSTED ACRYLIC CENTER DIFFUSER  
+[MORE] OPTOTRONIC #OT25W/PRG1250C/UNV/DIM @ 490mA               
+[LUMCAT] K-22LX-L2L-35-FR                            
+[LAMPCAT] L-LS-NKT-19-3500   
+TILT=NONE
+   1     -1.  1.000000   19    5    1    1 1.688 1.682  .000
+    1.0000    1.0000   17.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   626.   626.   617.   602.   582.   557.   528.   495.   451.   406.
+   360.   313.   262.   210.   159.   107.    63.    26.     0.
+   626.   624.   615.   602.   585.   558.   531.   496.   456.   415.
+   369.   320.   276.   229.   178.   124.    71.    28.     0.
+   626.   622.   616.   603.   586.   564.   535.   506.   467.   425.
+   380.   339.   294.   248.   198.   147.    91.    37.     0.
+   626.   620.   614.   604.   587.   565.   540.   510.   476.   443.
+   404.   362.   318.   272.   219.   166.   105.    44.     0.
+   626.   620.   615.   602.   587.   567.   542.   514.   477.   441.
+   403.   365.   324.   282.   231.   172.   112.    49.     0.

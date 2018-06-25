@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS TEST NO.  19642.0
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 04-JAN-2017
+[MANUFAC] ENERGY SOLUTIONS INTERNATIONAL, INC - WEST ST. PAUL, MN
+[LUMINAIRE] 2-72LED 22"ARRAYS 2x2'RECESSED IN LITHONIA 2SP8 HOUSING  
+[MORE] WHITE REFLECTOR w/PAT 12 LENS IN DOOR (PRISMS DOWN)      
+[MORE] ADVANCE #XI020C056V054BST2 @ 340mA                       
+[LUMCAT] K-22LT-F2X3-2S-35                           
+[LAMPCAT] FORTIMO 9290007795 
+TILT=NONE
+   1     -1.  1.000000   19    5    1    1 1.766 1.755  .000
+    1.0000    1.0000   14.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   816.   816.   800.   776.   749.   714.   668.   607.   528.   429.
+   310.   214.   152.   111.    88.    70.    48.    20.     0.
+   816.   812.   798.   776.   747.   712.   666.   600.   510.   412.
+   319.   232.   164.   122.    95.    73.    48.    21.     0.
+   816.   812.   799.   779.   751.   716.   669.   608.   529.   438.
+   336.   242.   173.   121.    84.    63.    41.    14.     0.
+   816.   809.   799.   782.   758.   726.   681.   619.   537.   437.
+   329.   227.   161.   119.    92.    70.    46.    20.     0.
+   816.   809.   802.   784.   758.   726.   683.   621.   541.   441.
+   320.   211.   152.   115.    92.    73.    51.    23.     0.

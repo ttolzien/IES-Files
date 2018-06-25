@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS TEST NO.  19298.0
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 18-APR-2016
+[MANUFAC] ENERGY SOLUTIONS INTERNATIONAL, INC - WEST ST. PAUL, MN
+[LUMINAIRE] 1-48LED 22"ARRAY 2x2'RETROFIT KIT IN LITHONIA 2SP8 HOUSING
+[MORE] WHITE REFLECTOR w/PRISMATIC LENS IN DOOR (PRISMS DOWN)   
+[MORE] ADVANCE DRIVER #XI040C110V054BPT1 @ 420mA                
+[LUMCAT] K-22LT-F2LL-1S-35                           
+[LAMPCAT] PHILIPS 442240896536
+TILT=NONE
+   1     -1.  1.000000   19    5    1    1 1.760 1.750  .000
+    1.0000    1.0000   17.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   882.   891.   878.   860.   835.   794.   739.   675.   587.   471.
+   332.   214.   148.   119.    97.    81.    58.    24.     2.
+   882.   886.   873.   855.   830.   791.   740.   673.   570.   449.
+   335.   243.   175.   135.   108.    84.    49.    20.     0.
+   882.   881.   871.   852.   824.   786.   736.   673.   582.   461.
+   348.   260.   189.   129.    89.    66.    43.    17.     0.
+   882.   879.   870.   854.   829.   793.   742.   684.   600.   486.
+   353.   245.   179.   139.   110.    83.    49.    23.     1.
+   882.   877.   867.   850.   832.   800.   751.   698.   607.   476.
+   334.   221.   154.   118.    97.    81.    56.    24.     1.

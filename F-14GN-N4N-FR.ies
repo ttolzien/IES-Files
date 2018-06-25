@@ -1,0 +1,276 @@
+IESNA:LM-63-2002
+[TESTLAB]  Photopia 2015.1.1 see: www.ltioptics.com/ies
+[ISSUEDATE] 
+[TESTDATE] Mon Aug 08 09:47:03 2016
+[TEST]  1
+[MANUFAC] 
+[LUMCAT] 
+[LUMINAIRE] F-14GN-N4N-FR
+[LAMP] LED 0.32W warm white SMD (100mA)
+[LAMPCAT] STW8Q14C
+[OTHER] 
+[OTHER] Indoor Photometric Report
+[OTHER] C:\DWG\Vault\2016\16515 Linear Suspended LED Luminaire\F-14GN-N4N-FR.ray
+[OTHER] Created: Mon, 8 Aug 2016 09:47:03 
+[OTHER] 
+[OTHER] PRODUCT INFORMATION
+[OTHER] Test number:             1
+[OTHER] Test date:               Mon, 8 Aug 2016 09:47:03 
+[OTHER] Manufacturer:            
+[OTHER] Catalog number:          
+[OTHER] Description:             F-14GN-N4N-FR
+[OTHER] Lamp catalog number:     STW8Q14C
+[OTHER] Lamp description:        LED 0.32W warm white SMD (100mA)
+[OTHER] 
+[OTHER] ANALYSIS SUMMARY
+[OTHER]     Traced 2500000 of 2500000 rays.
+[OTHER]     Rays limited to 25 reactions.
+[OTHER]     Rays traced to a minimum of 1% of their initial magnitude.
+[OTHER] 	Report type: Indoor
+[OTHER] 	Lamp flux energy units: Lumens
+[OTHER]     Far Field Sphere Test Distance: 20.00ft
+[OTHER]     Photometric Type: C
+[OTHER]     Symmetry: Quadrilateral
+[OTHER] 
+[OTHER] LUMENS EXITING FAR FIELD SPHERE
+[OTHER]              Lumens (%)    Reaction
+[OTHER]          0 (  0.0%)           0
+[OTHER]         11 (  0.3%)           1
+[OTHER]       1381 ( 33.3%)           2
+[OTHER]         87 (  2.1%)           3
+[OTHER]        379 (  9.1%)           4
+[OTHER]         89 (  2.1%)           5
+[OTHER]        217 (  5.2%)           6
+[OTHER]         79 (  1.9%)           7
+[OTHER]        120 (  2.9%)           8
+[OTHER]         64 (  1.5%)           9
+[OTHER]         76 (  1.8%)          10
+[OTHER]         50 (  1.2%)          11
+[OTHER]         52 (  1.3%)          12
+[OTHER]         39 (  0.9%)          13
+[OTHER]         37 (  0.9%)          14
+[OTHER]         29 (  0.7%)          15
+[OTHER]         27 (  0.6%)          16
+[OTHER]         22 (  0.5%)          17
+[OTHER]         20 (  0.5%)          18
+[OTHER]         17 (  0.4%)          19
+[OTHER]         15 (  0.4%)          20
+[OTHER]         12 (  0.3%)          21
+[OTHER]         11 (  0.3%)          22
+[OTHER]          9 (  0.2%)          23
+[OTHER]          8 (  0.2%)          24
+[OTHER]       2850 ( 68.8%)       Total
+[OTHER] 
+[OTHER] LUMEN INTERACTION WITH SYSTEM
+[OTHER]    Attenuated (%)     Absorbed (%)     Incident (%)  Layer Name
+[OTHER]        0 (  0.0%)     547 ( 13.2%)    6842 (165.1%)  16515 Linear Suspended LED Luminaire (Photopia)_16515-01-Body-R1_1
+[OTHER]        0 (  0.0%)       8 (  0.2%)     105 (  2.5%)  16515 Linear Suspended LED Luminaire (Photopia)_16515-03-EndCap_2
+[OTHER]        0 (  0.0%)       0 (  0.0%)       0 (  0.0%)  16515 Linear Suspended LED Luminaire (Photopia)_16515-03-EndCap_3
+[OTHER]        0 (  0.0%)       8 (  0.2%)     101 (  2.4%)  16515 Linear Suspended LED Luminaire (Photopia)_16515-03-EndCap_4
+[OTHER]        0 (  0.0%)     271 (  6.5%)    3384 ( 81.6%)  16515 Linear Suspended LED Luminaire (Photopia)_16515-06-HeatSink_2
+[OTHER]        0 (  0.0%)     271 (  6.5%)   13998 (337.7%)  16515 Linear Suspended LED Luminaire (Photopia)_16515_Lens_4
+[OTHER]        0 (  0.0%)       0 (  0.0%)       0 (  0.0%)  16515 Linear Suspended LED Luminaire (Photopia)_16515_Lens_5
+[OTHER]        0 (  0.0%)       0 (  0.0%)       3 (  0.1%)  LAMP-STW8Q14C-2600K1
+[OTHER]        0 (  0.0%)       1 (  0.0%)       8 (  0.2%)  LAMP-STW8Q14C-2600K2
+[OTHER]        0 (  0.0%)       3 (  0.1%)      33 (  0.8%)  LAMP-STW8Q14C-2600K3
+[OTHER]        0 (  0.0%)       0 (  0.0%)       0 (  0.0%)  LAMP-STW8Q14C-2600K4
+[OTHER]        0 (  0.0%)       0 (  0.0%)       0 (  0.0%)  LAMP-STW8Q14C-2600K5
+[OTHER]        0 (  0.0%)       0 (  0.0%)       0 (  0.0%)  LAMP-STW8Q14C-2600K6
+[OTHER]        0 (  0.0%)       8 (  0.2%)      54 (  1.3%)  LAMP-STW8Q14C-2600K7
+[OTHER]        0 (  0.0%)       2 (  0.0%)       6 (  0.2%)  LAMP-STW8Q14C-2600K8
+[OTHER]        0 (  0.0%)      85 (  2.1%)     551 ( 13.3%)  Refl-Base
+[OTHER]        0 (  0.0%)    1205 ( 29.1%)   25085 (605.1%)  Total
+[OTHER] 
+[OTHER]    Attenuated (%)     Absorbed (%)     Incident (%)  Material Name
+[OTHER]        0 (  0.0%)      85 (  2.1%)     551 ( 13.3%)  CORS5604
+[OTHER]        0 (  0.0%)       2 (  0.0%)       6 (  0.2%)  LEDALUMBASE
+[OTHER]        0 (  0.0%)       4 (  0.1%)      43 (  1.0%)  LEDPHOS
+[OTHER]        0 (  0.0%)       8 (  0.2%)      54 (  1.3%)  LEDWTBRD
+[OTHER]        0 (  0.0%)     271 (  6.5%)   13998 (337.7%)  LUMIEO08D
+[OTHER]        0 (  0.0%)     835 ( 20.1%)   10432 (251.7%)  PAINT008
+[OTHER]        0 (  0.0%)    1205 ( 29.1%)   25085 (605.1%)  Total
+[OTHER] 
+[OTHER] 
+[OTHER] ANOMALOUS LUMENS
+[OTHER]                     Reached interreflection limit:     78.89 (  1.9%)
+[OTHER]                     Fell below minimum ray energy:      0.00 (  0.0%)
+[OTHER]                      Redirected lamp distribution:      7.91 (  0.2%)
+[OTHER]               Transmitted through shadow geometry:      0.00 (  0.0%)
+[OTHER]           Ray exited a material prior to entering:      0.00 (  0.0%)
+[OTHER]                  Ray enter/exit material mismatch:      0.00 (  0.0%)
+[OTHER]                  TIR within an incorrect material:      0.00 (  0.0%)
+[OTHER]                       Ray never exited a material:      0.00 (  0.0%)
+[OTHER]             Intersected with Overlapping Surfaces:     91.87 (  2.2%)
+[OTHER]                                         - On layers 
+[OTHER]                                                     16515 Linear Suspended LED Luminaire (Photopia)_16515-01-Body-R1_1
+[OTHER] 
+[OTHER]                                                     16515 Linear Suspended LED Luminaire (Photopia)_16515-03-EndCap_2
+[OTHER] 
+[OTHER]                                                     16515 Linear Suspended LED Luminaire (Photopia)_16515-03-EndCap_3
+[OTHER] 
+[OTHER]                                                     16515 Linear Suspended LED Luminaire (Photopia)_16515-03-EndCap_4
+[OTHER] 
+[OTHER]                                                     16515 Linear Suspended LED Luminaire (Photopia)_16515-06-HeatSink_2
+[OTHER] 
+[OTHER]                                                     16515 Linear Suspended LED Luminaire (Photopia)_16515_Lens_4
+[OTHER] 
+[OTHER]                                                     16515 Linear Suspended LED Luminaire (Photopia)_16515_Lens_5
+[OTHER] 
+[OTHER]                                                     LAMP-STW8Q14C-2600K1
+[OTHER] 
+[OTHER]                                                     LAMP-STW8Q14C-2600K2
+[OTHER] 
+[OTHER]                                                     LAMP-STW8Q14C-2600K3
+[OTHER] 
+[OTHER]                                                     LAMP-STW8Q14C-2600K7
+[OTHER] 
+[OTHER]                                                     LAMP-STW8Q14C-2600K8
+[OTHER] 
+[OTHER]                                                     Refl-Base
+[OTHER] 
+[OTHER]                                                     ___internal___
+[OTHER] 
+[OTHER]        Exited Outside of Photometric distribution:      0.00 (  0.0%)
+[OTHER] 
+[OTHER] LUMINAIRE PROPERTIES
+[OTHER]     Number of lamps: 112
+[OTHER]     Lumens per lamp: 37.0
+[OTHER]     Input watts: 35.8
+[OTHER]     Distribution: Direct
+[OTHER]     Symmetry: Quadrilateral
+[OTHER]     Photometric Type: C
+[OTHER]     Luminous shape: Rectangle
+[OTHER]     Luminous dimensions (feet)
+[OTHER]         0° - 180° Axis: 3.9
+[OTHER]        90° - 270° Axis: 0.4
+[OTHER]                 Height: 0.3
+[OTHER] 
+[OTHER] CANDELA DISTRIBUTION
+[OTHER] Lumen basis: 4,145.23                   Internal multiplier: 1.00               
+[OTHER] Ballast factor: 1.00                    Tilt factor geometry: No tilt factor.   
+[OTHER] 
+[OTHER] Candela Distribution
+[OTHER]               0.00    22.50    45.00    67.50    90.00
+[OTHER]      0.00  1294.14  1294.14  1294.14  1294.14  1294.14
+[OTHER]      5.00  1301.86  1275.41  1263.11  1254.12  1269.61
+[OTHER]     10.00  1238.68  1219.25  1228.22  1211.04  1217.95
+[OTHER]     15.00  1189.35  1172.71  1151.54  1159.96  1159.88
+[OTHER]     20.00  1118.37  1117.87  1103.11  1106.68  1109.01
+[OTHER]     25.00  1037.53  1048.97  1033.85  1042.88  1047.54
+[OTHER]     30.00   968.41   956.94   959.39   950.51   953.14
+[OTHER]     35.00   885.21   876.88   872.76   878.82   886.39
+[OTHER]     40.00   776.38   779.29   770.59   768.92   761.33
+[OTHER]     45.00   666.59   664.28   657.09   653.22   649.27
+[OTHER]     50.00   552.40   551.38   545.21   538.60   528.87
+[OTHER]     55.00   432.64   429.48   425.29   409.50   403.70
+[OTHER]     60.00   314.49   315.13   303.22   288.89   281.24
+[OTHER]     65.00   205.52   197.21   189.77   177.09   175.46
+[OTHER]     70.00   101.51    99.18    91.68    83.27    80.53
+[OTHER]     75.00    30.93    29.49    28.57    27.23    27.59
+[OTHER]     80.00     5.51     6.83     9.75    11.38    12.14
+[OTHER]     85.00     2.24     3.83     4.45     4.34     3.62
+[OTHER]     90.00     0.98     0.68     0.53     0.56     0.41
+[OTHER]     95.00     4.51     3.92     3.19     3.61     4.31
+[OTHER]    100.00    11.04     9.61     8.61     8.62     8.43
+[OTHER]    105.00    18.21    16.27    14.58    16.34    16.13
+[OTHER]    110.00    27.49    22.94    20.90    24.56    25.37
+[OTHER]    115.00    36.93    31.20    27.34    31.13    32.49
+[OTHER]    120.00    48.75    38.69    34.14    35.01    42.10
+[OTHER]    125.00    56.32    49.94    40.75    39.52    42.29
+[OTHER]    130.00    68.35    56.77    48.75    45.52    44.65
+[OTHER]    135.00    75.08    65.55    55.24    51.64    53.72
+[OTHER]    140.00    86.46    74.90    63.11    61.24    61.32
+[OTHER]    145.00    93.30    87.05    65.77    69.14    72.12
+[OTHER]    150.00   100.04    93.65    76.70    66.62    66.75
+[OTHER]    155.00   109.86    99.84    91.74    74.17    74.03
+[OTHER]    160.00   116.51   101.80   102.28    92.00    89.51
+[OTHER]    165.00   129.13   108.96   103.11   107.36   104.84
+[OTHER]    170.00   125.43   114.06   108.18   106.59   101.76
+[OTHER]    175.00   121.47   123.41   119.50   123.78   114.61
+[OTHER]    180.00   125.70   125.70   125.70   125.70   125.70
+[OTHER] 
+[OTHER] INDOOR REPORT
+[OTHER] 
+[OTHER] ZONAL LUMENS
+[OTHER]          Cone         Between             Lumens
+[OTHER]          1.25         0.00 -   2.50         7.74
+[OTHER]          5.00         2.50 -   7.50        60.65
+[OTHER]         10.00         7.50 -  12.50       116.29
+[OTHER]         15.00        12.50 -  17.50       165.24
+[OTHER]         20.00        17.50 -  22.50       208.16
+[OTHER]         25.00        22.50 -  27.50       241.40
+[OTHER]         30.00        27.50 -  32.50       262.26
+[OTHER]         35.00        32.50 -  37.50       276.22
+[OTHER]         40.00        37.50 -  42.50       271.97
+[OTHER]         45.00        42.50 -  47.50       255.09
+[OTHER]         50.00        47.50 -  52.50       228.40
+[OTHER]         55.00        52.50 -  57.50       188.86
+[OTHER]         60.00        57.50 -  62.50       143.02
+[OTHER]         65.00        62.50 -  67.50        93.71
+[OTHER]         70.00        67.50 -  72.50        47.02
+[OTHER]         75.00        72.50 -  77.50        15.16
+[OTHER]         80.00        77.50 -  82.50         4.96
+[OTHER]         85.00        82.50 -  87.50         2.12
+[OTHER]         90.00        87.50 -  92.50         0.34
+[OTHER]         95.00        92.50 -  97.50         2.07
+[OTHER]        100.00        97.50 - 102.50         4.94
+[OTHER]        105.00       102.50 - 107.50         8.52
+[OTHER]        110.00       107.50 - 112.50        12.21
+[OTHER]        115.00       112.50 - 117.50        15.45
+[OTHER]        120.00       117.50 - 122.50        18.19
+[OTHER]        125.00       122.50 - 127.50        20.15
+[OTHER]        130.00       127.50 - 132.50        21.79
+[OTHER]        135.00       132.50 - 137.50        22.95
+[OTHER]        140.00       137.50 - 142.50        24.06
+[OTHER]        145.00       142.50 - 147.50        23.95
+[OTHER]        150.00       147.50 - 152.50        21.95
+[OTHER]        155.00       152.50 - 157.50        20.72
+[OTHER]        160.00       157.50 - 162.50        18.70
+[OTHER]        165.00       162.50 - 167.50        15.48
+[OTHER]        170.00       167.50 - 172.50        10.53
+[OTHER]        175.00       172.50 - 177.50         5.79
+[OTHER]        178.75       177.50 - 180.00         0.75
+[OTHER] 
+[OTHER] Zonal Lumen Summary
+[OTHER]       Zone           Lumens       % Lamp    % Fixture
+[OTHER]   0.00 -  30.00        930.60        22.45        32.58
+[OTHER]   0.00 -  40.00       1473.93        35.56        51.59
+[OTHER]   0.00 -  60.00       2353.78        56.78        82.39
+[OTHER]   0.00 -  90.00       2588.44        62.44        90.61
+[OTHER]  90.00 - 120.00         52.44         1.27         1.84
+[OTHER]  90.00 - 150.00        185.40         4.47         6.49
+[OTHER]  90.00 - 180.00        268.35         6.47         9.39
+[OTHER]   0.00 - 180.00       2856.78        68.92       100.00
+[OTHER] 
+[OTHER] Total Luminaire Optical Efficiency = 68.92%
+[OTHER] 
+[OTHER] Luminaire Spacing Criterion (spacing to mounting height ratio)
+[OTHER]     Two luminaires, plane  0: 1.12
+[OTHER]     Two luminaires, plane 90: 1.11
+[OTHER]              Four luminaires: 1.22
+[OTHER] 
+[OTHER] Full Beam Angle:
+[OTHER]    0° - 180°  90° - 270°
+[OTHER]      91.37°     89.85°
+[OTHER] 
+[OTHER] Average Luminaire Luminance (cd/m²)
+[OTHER] 
+[OTHER]               0.00    22.50    45.00    67.50    90.00
+[OTHER]      0.00  9314.31  9314.31  9314.31  9314.31  9314.31
+[OTHER]     45.00  6330.24  5034.24  4281.52  3921.29  3835.24
+[OTHER]     55.00  4923.76  3616.91  2960.21  2577.78  2492.07
+[OTHER]     65.00  3032.90  1934.92  1465.35  1210.37  1171.49
+[OTHER]     75.00   678.28   359.65   256.42   210.56   207.43
+[OTHER]     85.00   101.52    64.34    49.49    40.06    32.29
+[OTHER] 
+TILT=NONE
+112 37.011 1 37 5 1 1 0.385417 3.88033 0.278709
+1 1 35.84
+0.00 5.00 10.00 15.00 20.00 25.00 30.00 35.00 40.00 45.00 50.00 55.00 60.00 65.00 70.00 75.00 80.00 85.00 90.00 95.00 100.00 105.00 110.00 115.00 120.00 125.00 130.00 135.00 140.00 145.00 150.00 155.00 160.00 165.00 170.00 175.00 180.00 
+0.00 22.50 45.00 67.50 90.00 
+1294.14 1301.86 1238.68 1189.35 1118.37 1037.53 968.41 885.21 776.38 666.59 552.40 432.64 314.49 205.52 101.51 30.93 5.51 2.24 0.98 4.51 11.04 18.21 27.49 36.93 48.75 56.32 68.35 75.08 86.46 93.30 100.04 109.86 116.51 129.13 125.43 121.47 125.70 
+1294.14 1275.41 1219.25 1172.71 1117.87 1048.97 956.94 876.88 779.29 664.28 551.38 429.48 315.13 197.21 99.18 29.49 6.83 3.83 0.68 3.92 9.61 16.27 22.94 31.20 38.69 49.94 56.77 65.55 74.90 87.05 93.65 99.84 101.80 108.96 114.06 123.41 125.70 
+1294.14 1263.11 1228.22 1151.54 1103.11 1033.85 959.39 872.76 770.59 657.09 545.21 425.29 303.22 189.77 91.68 28.57 9.75 4.45 0.53 3.19 8.61 14.58 20.90 27.34 34.14 40.75 48.75 55.24 63.11 65.77 76.70 91.74 102.28 103.11 108.18 119.50 125.70 
+1294.14 1254.12 1211.04 1159.96 1106.68 1042.88 950.51 878.82 768.92 653.22 538.60 409.50 288.89 177.09 83.27 27.23 11.38 4.34 0.56 3.61 8.62 16.34 24.56 31.13 35.01 39.52 45.52 51.64 61.24 69.14 66.62 74.17 92.00 107.36 106.59 123.78 125.70 
+1294.14 1269.61 1217.95 1159.88 1109.01 1047.54 953.14 886.39 761.33 649.27 528.87 403.70 281.24 175.46 80.53 27.59 12.14 3.62 0.41 4.31 8.43 16.13 25.37 32.49 42.10 42.29 44.65 53.72 61.32 72.12 66.75 74.03 89.51 104.84 101.76 114.61 125.70 
+
