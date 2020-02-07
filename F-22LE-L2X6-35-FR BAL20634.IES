@@ -1,0 +1,26 @@
+IESNA:LM-63-2002
+[TEST]BALLABS TEST NO.  20634.0
+[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+[ISSUEDATE] 05-NOV-2018
+[MANUFAC] ENERGY SOLUTIONS INTERNATIONAL, INC - WEST ST. PAUL, MN
+[LUMINAIRE] 2-80 LED 19.5"ARRAYS 2x2 LE SERIES DOWNLIGHT LUMINAIRE   
+[MORE] WHITE ALUM BODY w/WHITE REFLECTOR AND FROSTED DROP LENS  
+[MORE] ADVANCE #XI040C110V054BST1 @ 480mA                       
+[LUMCAT] F-22LE-L2X6-35-FR                           
+[LAMPCAT] L-LS-NKT-19-3500K-80
+TILT=NONE
+   1     -1.  1.000000   19    5    1    1 1.833 1.844  .000
+    1.0000    1.0000   16.0000
+     .0    5.0   10.0   15.0   20.0   25.0   30.0   35.0   40.0   45.0
+   50.0   55.0   60.0   65.0   70.0   75.0   80.0   85.0   90.0
+     .0   22.5   45.0   67.5   90.0
+   850.   853.   833.   808.   772.   729.   680.   622.   559.   493.
+   426.   359.   296.   228.   165.   103.    53.    16.     0.
+   850.   846.   829.   804.   769.   729.   678.   627.   567.   501.
+   441.   374.   310.   245.   190.   132.    82.    26.     0.
+   850.   845.   829.   806.   775.   735.   689.   645.   580.   525.
+   464.   405.   347.   291.   240.   193.   146.    53.     0.
+   850.   844.   827.   806.   778.   741.   699.   652.   599.   546.
+   491.   435.   382.   333.   288.   251.   186.    71.     0.
+   850.   842.   829.   806.   778.   747.   703.   656.   606.   554.
+   500.   446.   396.   349.   308.   268.   203.    85.     0.
